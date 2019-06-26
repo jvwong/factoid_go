@@ -1,0 +1,541 @@
+{
+  "cellular_component": [
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005615",
+      "aspect": "cellular_component",
+      "label": "extracellular space"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005737",
+      "aspect": "cellular_component",
+      "label": "cytoplasm"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005856",
+      "aspect": "cellular_component",
+      "label": "cytoskeleton"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005730",
+      "aspect": "cellular_component",
+      "label": "nucleolus"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005576",
+      "aspect": "cellular_component",
+      "label": "extracellular region"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005575",
+      "aspect": "cellular_component",
+      "label": "cellular_component"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005694",
+      "aspect": "cellular_component",
+      "label": "chromosome"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0009536",
+      "aspect": "cellular_component",
+      "label": "plastid"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005618",
+      "aspect": "cellular_component",
+      "label": "cell wall"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005739",
+      "aspect": "cellular_component",
+      "label": "mitochondrion"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005622",
+      "aspect": "cellular_component",
+      "label": "intracellular"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005623",
+      "aspect": "cellular_component",
+      "label": "cell"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0043226",
+      "aspect": "cellular_component",
+      "label": "organelle"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005794",
+      "aspect": "cellular_component",
+      "label": "Golgi apparatus"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005840",
+      "aspect": "cellular_component",
+      "label": "ribosome"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005811",
+      "aspect": "cellular_component",
+      "label": "lipid droplet"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005777",
+      "aspect": "cellular_component",
+      "label": "peroxisome"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005654",
+      "aspect": "cellular_component",
+      "label": "nucleoplasm"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005773",
+      "aspect": "cellular_component",
+      "label": "vacuole"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0009579",
+      "aspect": "cellular_component",
+      "label": "thylakoid"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0032991",
+      "aspect": "cellular_component",
+      "label": "protein-containing complex"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005815",
+      "aspect": "cellular_component",
+      "label": "microtubule organizing center"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005783",
+      "aspect": "cellular_component",
+      "label": "endoplasmic reticulum"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0031410",
+      "aspect": "cellular_component",
+      "label": "cytoplasmic vesicle"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0031012",
+      "aspect": "cellular_component",
+      "label": "extracellular matrix"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005829",
+      "aspect": "cellular_component",
+      "label": "cytosol"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005635",
+      "aspect": "cellular_component",
+      "label": "nuclear envelope"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005634",
+      "aspect": "cellular_component",
+      "label": "nucleus"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0030312",
+      "aspect": "cellular_component",
+      "label": "external encapsulating structure"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0000229",
+      "aspect": "cellular_component",
+      "label": "cytoplasmic chromosome"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0000228",
+      "aspect": "cellular_component",
+      "label": "nuclear chromosome"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005768",
+      "aspect": "cellular_component",
+      "label": "endosome"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005886",
+      "aspect": "cellular_component",
+      "label": "plasma membrane"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005764",
+      "aspect": "cellular_component",
+      "label": "lysosome"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005929",
+      "aspect": "cellular_component",
+      "label": "cilium"
+    }
+  ],
+  "biological_process": [
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0016192",
+      "aspect": "biological_process",
+      "label": "vesicle-mediated transport"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0005975",
+      "aspect": "biological_process",
+      "label": "carbohydrate metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0065003",
+      "aspect": "biological_process",
+      "label": "protein-containing complex assembly"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0034330",
+      "aspect": "biological_process",
+      "label": "cell junction organization"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0021700",
+      "aspect": "biological_process",
+      "label": "developmental maturation"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0008219",
+      "aspect": "biological_process",
+      "label": "cell death"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007009",
+      "aspect": "biological_process",
+      "label": "plasma membrane organization"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006399",
+      "aspect": "biological_process",
+      "label": "tRNA metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007005",
+      "aspect": "biological_process",
+      "label": "mitochondrion organization"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0042254",
+      "aspect": "biological_process",
+      "label": "ribosome biogenesis"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006950",
+      "aspect": "biological_process",
+      "label": "response to stress"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006397",
+      "aspect": "biological_process",
+      "label": "mRNA processing"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0009790",
+      "aspect": "biological_process",
+      "label": "embryo development"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0048870",
+      "aspect": "biological_process",
+      "label": "cell motility"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006790",
+      "aspect": "biological_process",
+      "label": "sulfur compound metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0019748",
+      "aspect": "biological_process",
+      "label": "secondary metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0044281",
+      "aspect": "biological_process",
+      "label": "small molecule metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0003013",
+      "aspect": "biological_process",
+      "label": "circulatory system process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006520",
+      "aspect": "biological_process",
+      "label": "cellular amino acid metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007059",
+      "aspect": "biological_process",
+      "label": "chromosome segregation"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0048646",
+      "aspect": "biological_process",
+      "label": "anatomical structure formation involved in morphogenesis"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0043473",
+      "aspect": "biological_process",
+      "label": "pigmentation"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0040007",
+      "aspect": "biological_process",
+      "label": "growth"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0008150",
+      "aspect": "biological_process",
+      "label": "biological_process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006091",
+      "aspect": "biological_process",
+      "label": "generation of precursor metabolites and energy"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0071941",
+      "aspect": "biological_process",
+      "label": "nitrogen cycle metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0030198",
+      "aspect": "biological_process",
+      "label": "extracellular matrix organization"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0022618",
+      "aspect": "biological_process",
+      "label": "ribonucleoprotein complex assembly"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0051301",
+      "aspect": "biological_process",
+      "label": "cell division"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006810",
+      "aspect": "biological_process",
+      "label": "transport"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006412",
+      "aspect": "biological_process",
+      "label": "translation"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006259",
+      "aspect": "biological_process",
+      "label": "DNA metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0000278",
+      "aspect": "biological_process",
+      "label": "mitotic cell cycle"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0040011",
+      "aspect": "biological_process",
+      "label": "locomotion"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0008283",
+      "aspect": "biological_process",
+      "label": "cell population proliferation"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0022607",
+      "aspect": "biological_process",
+      "label": "cellular component assembly"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0000003",
+      "aspect": "biological_process",
+      "label": "reproduction"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006464",
+      "aspect": "biological_process",
+      "label": "cellular protein modification process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0009058",
+      "aspect": "biological_process",
+      "label": "biosynthetic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007155",
+      "aspect": "biological_process",
+      "label": "cell adhesion"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0015979",
+      "aspect": "biological_process",
+      "label": "photosynthesis"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007034",
+      "aspect": "biological_process",
+      "label": "vacuolar transport"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0009056",
+      "aspect": "biological_process",
+      "label": "catabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0034655",
+      "aspect": "biological_process",
+      "label": "nucleobase-containing compound catabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0051276",
+      "aspect": "biological_process",
+      "label": "chromosome organization"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006629",
+      "aspect": "biological_process",
+      "label": "lipid metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0032196",
+      "aspect": "biological_process",
+      "label": "transposition"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006913",
+      "aspect": "biological_process",
+      "label": "nucleocytoplasmic transport"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006914",
+      "aspect": "biological_process",
+      "label": "autophagy"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0050877",
+      "aspect": "biological_process",
+      "label": "nervous system process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0051604",
+      "aspect": "biological_process",
+      "label": "protein maturation"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007568",
+      "aspect": "biological_process",
+      "label": "aging"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007049",
+      "aspect": "biological_process",
+      "label": "cell cycle"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007165",
+      "aspect": "biological_process",
+      "label": "signal transduction"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0055085",
+      "aspect": "biological_process",
+      "label": "transmembrane transport"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0034641",
+      "aspect": "biological_process",
+      "label": "cellular nitrogen compound metabolic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0140014",
+      "aspect": "biological_process",
+      "label": "mitotic nuclear division"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0071554",
+      "aspect": "biological_process",
+      "label": "cell wall organization or biogenesis"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006605",
+      "aspect": "biological_process",
+      "label": "protein targeting"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007010",
+      "aspect": "biological_process",
+      "label": "cytoskeleton organization"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0061024",
+      "aspect": "biological_process",
+      "label": "membrane organization"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0044403",
+      "aspect": "biological_process",
+      "label": "symbiont process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0000902",
+      "aspect": "biological_process",
+      "label": "cell morphogenesis"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0030154",
+      "aspect": "biological_process",
+      "label": "cell differentiation"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0015031",
+      "aspect": "biological_process",
+      "label": "protein transport"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0002376",
+      "aspect": "biological_process",
+      "label": "immune system process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0048856",
+      "aspect": "biological_process",
+      "label": "anatomical structure development"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0006457",
+      "aspect": "biological_process",
+      "label": "protein folding"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0007267",
+      "aspect": "biological_process",
+      "label": "cell-cell signaling"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0042592",
+      "aspect": "biological_process",
+      "label": "homeostatic process"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0030705",
+      "aspect": "biological_process",
+      "label": "cytoskeleton-dependent intracellular transport"
+    },
+    {
+      "id": "http://purl.obolibrary.org/obo/GO_0051186",
+      "aspect": "biological_process",
+      "label": "cofactor metabolic process"
+    }
+  ]
+}

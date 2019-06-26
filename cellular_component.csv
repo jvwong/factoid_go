@@ -1,0 +1,36 @@
+label,id
+extracellular space,http://purl.obolibrary.org/obo/GO_0005615
+cytoplasm,http://purl.obolibrary.org/obo/GO_0005737
+cytoskeleton,http://purl.obolibrary.org/obo/GO_0005856
+nucleolus,http://purl.obolibrary.org/obo/GO_0005730
+extracellular region,http://purl.obolibrary.org/obo/GO_0005576
+cellular_component,http://purl.obolibrary.org/obo/GO_0005575
+chromosome,http://purl.obolibrary.org/obo/GO_0005694
+plastid,http://purl.obolibrary.org/obo/GO_0009536
+cell wall,http://purl.obolibrary.org/obo/GO_0005618
+mitochondrion,http://purl.obolibrary.org/obo/GO_0005739
+intracellular,http://purl.obolibrary.org/obo/GO_0005622
+cell,http://purl.obolibrary.org/obo/GO_0005623
+organelle,http://purl.obolibrary.org/obo/GO_0043226
+Golgi apparatus,http://purl.obolibrary.org/obo/GO_0005794
+ribosome,http://purl.obolibrary.org/obo/GO_0005840
+lipid droplet,http://purl.obolibrary.org/obo/GO_0005811
+peroxisome,http://purl.obolibrary.org/obo/GO_0005777
+nucleoplasm,http://purl.obolibrary.org/obo/GO_0005654
+vacuole,http://purl.obolibrary.org/obo/GO_0005773
+thylakoid,http://purl.obolibrary.org/obo/GO_0009579
+protein-containing complex,http://purl.obolibrary.org/obo/GO_0032991
+microtubule organizing center,http://purl.obolibrary.org/obo/GO_0005815
+endoplasmic reticulum,http://purl.obolibrary.org/obo/GO_0005783
+cytoplasmic vesicle,http://purl.obolibrary.org/obo/GO_0031410
+extracellular matrix,http://purl.obolibrary.org/obo/GO_0031012
+cytosol,http://purl.obolibrary.org/obo/GO_0005829
+nuclear envelope,http://purl.obolibrary.org/obo/GO_0005635
+nucleus,http://purl.obolibrary.org/obo/GO_0005634
+external encapsulating structure,http://purl.obolibrary.org/obo/GO_0030312
+cytoplasmic chromosome,http://purl.obolibrary.org/obo/GO_0000229
+nuclear chromosome,http://purl.obolibrary.org/obo/GO_0000228
+endosome,http://purl.obolibrary.org/obo/GO_0005768
+plasma membrane,http://purl.obolibrary.org/obo/GO_0005886
+lysosome,http://purl.obolibrary.org/obo/GO_0005764
+cilium,http://purl.obolibrary.org/obo/GO_0005929

@@ -1,5 +1,6 @@
 import requests
 import json
+import csv
 import pprint
 
 pp = pprint.PrettyPrinter(indent=2)
@@ -55,13 +56,28 @@ def categorizeByAspect( nodes, aspects=['cellular_component', 'biological_proces
       # print( 'aspect: {aspect}\nlabel: {label}'.format(aspect=fields['aspect'], label=fields['label']) )
   return output
 
+
+def dictToCSVFile( dataDict ):
+  keys = dataDict.keys()
+  for key in keys:
+    csv_file = key + '.csv'
+    dataList = dataDict[key]
+    fieldnames = ['label', 'id'] 
+    try:
+      with open(csv_file, 'w') as csvfile:
+          writer = csv.DictWriter(csvfile, fieldnames=fieldnames )
+          writer.writeheader()
+          for data in dataList:
+            pickedData = { picked: data[picked] for picked in fieldnames }
+            writer.writerow( pickedData )
+    except IOError:
+      print("I/O error") 
+
 def main():
   nodes = getNodes()
   categorized = categorizeByAspect( nodes )
-  r = json.dumps(categorized)
-  print(r)
-  # pp.pprint(categorized)
-
-
+  # jsonData = json.dumps(categorized)
+  dictToCSVFile( categorized )
+  
 main()
 

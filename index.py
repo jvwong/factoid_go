@@ -33,6 +33,8 @@ def findByKey( lst, key, val ):
 
 
 def pickNodeFields( node, namespaces ):
+  synonyms = []
+  definition = ''
   id = node['id']
 
   if 'type' not in node or node['type'] != "CLASS": return
@@ -46,12 +48,14 @@ def pickNodeFields( node, namespaces ):
   namespace = findByKey( basicPropertyValues, 'pred', 'http://www.geneontology.org/formats/oboInOwl#hasOBONamespace' )
   if namespace not in namespaces: return
 
-  synonyms = []
   if 'synonyms' in meta:
     synonyms = [ s['val'] for s in meta['synonyms'] ]
+  if 'definition' in meta:
+    definition = meta['definition']['val']
 
   return {
     'id': id,
+    'definition': definition,
     'label': lbl,
     'synonyms': synonyms,
     'namespace': namespace
@@ -75,7 +79,7 @@ def dictToCSVFile( dataDict ):
   for key in keys:
     csv_file = key + '.csv'
     dataList = dataDict[key]
-    fieldnames = ['id', 'label', 'synonyms']
+    fieldnames = ['id', 'definition', 'label', 'synonyms']
     try:
       with open(csv_file, 'w') as csvfile:
           writer = csv.DictWriter(csvfile, fieldnames=fieldnames, quotechar=quote, quoting=csv.QUOTE_MINIMAL )

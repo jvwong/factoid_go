@@ -1,73 +1,73 @@
-label,id
-vesicle-mediated transport,http://purl.obolibrary.org/obo/GO_0016192
-carbohydrate metabolic process,http://purl.obolibrary.org/obo/GO_0005975
-protein-containing complex assembly,http://purl.obolibrary.org/obo/GO_0065003
-cell junction organization,http://purl.obolibrary.org/obo/GO_0034330
-developmental maturation,http://purl.obolibrary.org/obo/GO_0021700
-cell death,http://purl.obolibrary.org/obo/GO_0008219
-plasma membrane organization,http://purl.obolibrary.org/obo/GO_0007009
-tRNA metabolic process,http://purl.obolibrary.org/obo/GO_0006399
-mitochondrion organization,http://purl.obolibrary.org/obo/GO_0007005
-ribosome biogenesis,http://purl.obolibrary.org/obo/GO_0042254
-response to stress,http://purl.obolibrary.org/obo/GO_0006950
-mRNA processing,http://purl.obolibrary.org/obo/GO_0006397
-embryo development,http://purl.obolibrary.org/obo/GO_0009790
-cell motility,http://purl.obolibrary.org/obo/GO_0048870
-sulfur compound metabolic process,http://purl.obolibrary.org/obo/GO_0006790
-secondary metabolic process,http://purl.obolibrary.org/obo/GO_0019748
-small molecule metabolic process,http://purl.obolibrary.org/obo/GO_0044281
-circulatory system process,http://purl.obolibrary.org/obo/GO_0003013
-cellular amino acid metabolic process,http://purl.obolibrary.org/obo/GO_0006520
-chromosome segregation,http://purl.obolibrary.org/obo/GO_0007059
-anatomical structure formation involved in morphogenesis,http://purl.obolibrary.org/obo/GO_0048646
-pigmentation,http://purl.obolibrary.org/obo/GO_0043473
-growth,http://purl.obolibrary.org/obo/GO_0040007
-biological_process,http://purl.obolibrary.org/obo/GO_0008150
-generation of precursor metabolites and energy,http://purl.obolibrary.org/obo/GO_0006091
-nitrogen cycle metabolic process,http://purl.obolibrary.org/obo/GO_0071941
-extracellular matrix organization,http://purl.obolibrary.org/obo/GO_0030198
-ribonucleoprotein complex assembly,http://purl.obolibrary.org/obo/GO_0022618
-cell division,http://purl.obolibrary.org/obo/GO_0051301
-transport,http://purl.obolibrary.org/obo/GO_0006810
-translation,http://purl.obolibrary.org/obo/GO_0006412
-DNA metabolic process,http://purl.obolibrary.org/obo/GO_0006259
-mitotic cell cycle,http://purl.obolibrary.org/obo/GO_0000278
-locomotion,http://purl.obolibrary.org/obo/GO_0040011
-cell population proliferation,http://purl.obolibrary.org/obo/GO_0008283
-cellular component assembly,http://purl.obolibrary.org/obo/GO_0022607
-reproduction,http://purl.obolibrary.org/obo/GO_0000003
-cellular protein modification process,http://purl.obolibrary.org/obo/GO_0006464
-biosynthetic process,http://purl.obolibrary.org/obo/GO_0009058
-cell adhesion,http://purl.obolibrary.org/obo/GO_0007155
-photosynthesis,http://purl.obolibrary.org/obo/GO_0015979
-vacuolar transport,http://purl.obolibrary.org/obo/GO_0007034
-catabolic process,http://purl.obolibrary.org/obo/GO_0009056
-nucleobase-containing compound catabolic process,http://purl.obolibrary.org/obo/GO_0034655
-chromosome organization,http://purl.obolibrary.org/obo/GO_0051276
-lipid metabolic process,http://purl.obolibrary.org/obo/GO_0006629
-transposition,http://purl.obolibrary.org/obo/GO_0032196
-nucleocytoplasmic transport,http://purl.obolibrary.org/obo/GO_0006913
-autophagy,http://purl.obolibrary.org/obo/GO_0006914
-nervous system process,http://purl.obolibrary.org/obo/GO_0050877
-protein maturation,http://purl.obolibrary.org/obo/GO_0051604
-aging,http://purl.obolibrary.org/obo/GO_0007568
-cell cycle,http://purl.obolibrary.org/obo/GO_0007049
-signal transduction,http://purl.obolibrary.org/obo/GO_0007165
-transmembrane transport,http://purl.obolibrary.org/obo/GO_0055085
-cellular nitrogen compound metabolic process,http://purl.obolibrary.org/obo/GO_0034641
-mitotic nuclear division,http://purl.obolibrary.org/obo/GO_0140014
-cell wall organization or biogenesis,http://purl.obolibrary.org/obo/GO_0071554
-protein targeting,http://purl.obolibrary.org/obo/GO_0006605
-cytoskeleton organization,http://purl.obolibrary.org/obo/GO_0007010
-membrane organization,http://purl.obolibrary.org/obo/GO_0061024
-symbiont process,http://purl.obolibrary.org/obo/GO_0044403
-cell morphogenesis,http://purl.obolibrary.org/obo/GO_0000902
-cell differentiation,http://purl.obolibrary.org/obo/GO_0030154
-protein transport,http://purl.obolibrary.org/obo/GO_0015031
-immune system process,http://purl.obolibrary.org/obo/GO_0002376
-anatomical structure development,http://purl.obolibrary.org/obo/GO_0048856
-protein folding,http://purl.obolibrary.org/obo/GO_0006457
-cell-cell signaling,http://purl.obolibrary.org/obo/GO_0007267
-homeostatic process,http://purl.obolibrary.org/obo/GO_0042592
-cytoskeleton-dependent intracellular transport,http://purl.obolibrary.org/obo/GO_0030705
-cofactor metabolic process,http://purl.obolibrary.org/obo/GO_0051186
+id,label,synonyms
+http://purl.obolibrary.org/obo/GO_0016192,vesicle-mediated transport,"vesicle transport,nonselective vesicle transport,vesicle trafficking,protein sorting along secretory pathway,vesicular transport"
+http://purl.obolibrary.org/obo/GO_0005975,carbohydrate metabolic process,"multicellular organismal carbohydrate metabolic process,single-organism carbohydrate metabolic process,carbohydrate metabolism"
+http://purl.obolibrary.org/obo/GO_0065003,protein-containing complex assembly,"chaperone activity,protein complex formation,macromolecule complex assembly,protein complex assembly,macromolecular complex assembly"
+http://purl.obolibrary.org/obo/GO_0034330,cell junction organization,"cell junction assembly and maintenance,cell junction organisation,cell junction biogenesis"
+http://purl.obolibrary.org/obo/GO_0021700,developmental maturation,
+http://purl.obolibrary.org/obo/GO_0008219,cell death,"accidental cell death,necrosis"
+http://purl.obolibrary.org/obo/GO_0007009,plasma membrane organization,"plasma membrane organisation,plasma membrane organization and biogenesis"
+http://purl.obolibrary.org/obo/GO_0006399,tRNA metabolic process,tRNA metabolism
+http://purl.obolibrary.org/obo/GO_0007005,mitochondrion organization,"mitochondrion organisation,mitochondrion organization and biogenesis,mitochondria organization"
+http://purl.obolibrary.org/obo/GO_0042254,ribosome biogenesis,ribosome biogenesis and assembly
+http://purl.obolibrary.org/obo/GO_0006950,response to stress,"response to biotic stress,response to abiotic stress"
+http://purl.obolibrary.org/obo/GO_0006397,mRNA processing,mRNA maturation
+http://purl.obolibrary.org/obo/GO_0009790,embryo development,"embryogenesis and morphogenesis,embryonal development,embryogenesis"
+http://purl.obolibrary.org/obo/GO_0048870,cell motility,"cell locomotion,movement of a cell,cell movement"
+http://purl.obolibrary.org/obo/GO_0006790,sulfur compound metabolic process,"sulfur metabolism,sulphur metabolic process,sulphur metabolism"
+http://purl.obolibrary.org/obo/GO_0019748,secondary metabolic process,"secondary metabolism,secondary metabolite metabolic process,secondary metabolite metabolism"
+http://purl.obolibrary.org/obo/GO_0044281,small molecule metabolic process,small molecule metabolism
+http://purl.obolibrary.org/obo/GO_0003013,circulatory system process,
+http://purl.obolibrary.org/obo/GO_0006520,cellular amino acid metabolic process,"cellular amino acid metabolism,cellular amino acid and derivative metabolic process,amino acid metabolic process,amino acid and derivative metabolism"
+http://purl.obolibrary.org/obo/GO_0007059,chromosome segregation,"chromosome transmission,chromosome division"
+http://purl.obolibrary.org/obo/GO_0048646,anatomical structure formation involved in morphogenesis,formation of an anatomical structure involved in morphogenesis
+http://purl.obolibrary.org/obo/GO_0043473,pigmentation,
+http://purl.obolibrary.org/obo/GO_0040007,growth,"growth pattern,non-developmental growth"
+http://purl.obolibrary.org/obo/GO_0008150,biological_process,"biological process,single organism process,physiological process,single-organism process"
+http://purl.obolibrary.org/obo/GO_0006091,generation of precursor metabolites and energy,"energy pathways,metabolic energy generation,intermediary metabolism"
+http://purl.obolibrary.org/obo/GO_0071941,nitrogen cycle metabolic process,
+http://purl.obolibrary.org/obo/GO_0030198,extracellular matrix organization,"extracellular matrix organisation,extracellular matrix organization and biogenesis"
+http://purl.obolibrary.org/obo/GO_0022618,ribonucleoprotein complex assembly,"RNA-protein complex assembly,RNP complex assembly,protein-RNA complex assembly"
+http://purl.obolibrary.org/obo/GO_0051301,cell division,
+http://purl.obolibrary.org/obo/GO_0006810,transport,"single-organism transport,small molecule transport,solute:solute exchange"
+http://purl.obolibrary.org/obo/GO_0006412,translation,"protein synthesis,protein anabolism,protein translation,protein biosynthetic process,protein formation,protein biosynthesis"
+http://purl.obolibrary.org/obo/GO_0006259,DNA metabolic process,"cellular DNA metabolism,DNA metabolism"
+http://purl.obolibrary.org/obo/GO_0000278,mitotic cell cycle,mitosis
+http://purl.obolibrary.org/obo/GO_0040011,locomotion,
+http://purl.obolibrary.org/obo/GO_0008283,cell population proliferation,cell proliferation
+http://purl.obolibrary.org/obo/GO_0022607,cellular component assembly,"cell structure assembly,cellular component assembly at cellular level"
+http://purl.obolibrary.org/obo/GO_0000003,reproduction,reproductive physiological process
+http://purl.obolibrary.org/obo/GO_0006464,cellular protein modification process,"protein modification process,process resulting in protein modification,protein tagging activity"
+http://purl.obolibrary.org/obo/GO_0009058,biosynthetic process,"biosynthesis,synthesis,multicellular organismal biosynthetic process,single-organism biosynthetic process,formation,anabolism"
+http://purl.obolibrary.org/obo/GO_0007155,cell adhesion,"cell adhesion molecule activity,single organism cell adhesion"
+http://purl.obolibrary.org/obo/GO_0015979,photosynthesis,
+http://purl.obolibrary.org/obo/GO_0007034,vacuolar transport,
+http://purl.obolibrary.org/obo/GO_0009056,catabolic process,"catabolism,degradation,multicellular organismal catabolic process,breakdown,single-organism catabolic process"
+http://purl.obolibrary.org/obo/GO_0034655,nucleobase-containing compound catabolic process,"nucleobase, nucleoside, nucleotide and nucleic acid catabolism,nucleobase, nucleoside, nucleotide and nucleic acid degradation,nucleobase, nucleoside, nucleotide and nucleic acid catabolic process,nucleobase, nucleoside, nucleotide and nucleic acid breakdown"
+http://purl.obolibrary.org/obo/GO_0051276,chromosome organization,"nuclear genome maintenance,maintenance of genome integrity,chromosome organisation,chromosome organization and biogenesis"
+http://purl.obolibrary.org/obo/GO_0006629,lipid metabolic process,lipid metabolism
+http://purl.obolibrary.org/obo/GO_0032196,transposition,
+http://purl.obolibrary.org/obo/GO_0006913,nucleocytoplasmic transport,nucleocytoplasmic shuttling
+http://purl.obolibrary.org/obo/GO_0006914,autophagy,
+http://purl.obolibrary.org/obo/GO_0050877,nervous system process,"pan-neural process,neurophysiological process,neurological system process"
+http://purl.obolibrary.org/obo/GO_0051604,protein maturation,
+http://purl.obolibrary.org/obo/GO_0007568,aging,ageing
+http://purl.obolibrary.org/obo/GO_0007049,cell cycle,cell-division cycle
+http://purl.obolibrary.org/obo/GO_0007165,signal transduction,"signalling cascade,signaling pathway,signaling cascade,signalling pathway"
+http://purl.obolibrary.org/obo/GO_0055085,transmembrane transport,"membrane transport,ATP hydrolysis coupled transmembrane transport"
+http://purl.obolibrary.org/obo/GO_0034641,cellular nitrogen compound metabolic process,cellular nitrogen compound metabolism
+http://purl.obolibrary.org/obo/GO_0140014,mitotic nuclear division,
+http://purl.obolibrary.org/obo/GO_0071554,cell wall organization or biogenesis,"cellular cell wall organisation or biogenesis,cell wall organisation or biogenesis,cellular cell wall organization or biogenesis,cell wall organization or biogenesis at cellular level"
+http://purl.obolibrary.org/obo/GO_0006605,protein targeting,"protein sorting along secretory pathway,nascent polypeptide association"
+http://purl.obolibrary.org/obo/GO_0007010,cytoskeleton organization,"cytoskeleton organization and biogenesis,cytoskeletal organization and biogenesis,cytoskeleton organisation,cytoskeletal regulator activity"
+http://purl.obolibrary.org/obo/GO_0061024,membrane organization,"single-organism membrane organization,membrane organisation,membrane organization and biogenesis,cellular membrane organisation,cellular membrane organization"
+http://purl.obolibrary.org/obo/GO_0044403,symbiont process,"symbiotic interaction between species,commensalism,parasitism,symbiosis, encompassing mutualism through parasitism,symbiotic interaction,host-pathogen interaction,symbiosis,symbiotic interaction between organisms,symbiotic interaction between host and organism"
+http://purl.obolibrary.org/obo/GO_0000902,cell morphogenesis,cellular morphogenesis
+http://purl.obolibrary.org/obo/GO_0030154,cell differentiation,
+http://purl.obolibrary.org/obo/GO_0015031,protein transport,enzyme transport
+http://purl.obolibrary.org/obo/GO_0002376,immune system process,
+http://purl.obolibrary.org/obo/GO_0048856,anatomical structure development,development of an anatomical structure
+http://purl.obolibrary.org/obo/GO_0006457,protein folding,"chaperonin ATPase activity,alpha-tubulin folding,non-chaperonin molecular chaperone ATPase activity,beta-tubulin folding,co-chaperone activity,chaperonin-mediated tubulin folding,glycoprotein-specific chaperone activity,chaperone activity,co-chaperonin activity,protein complex assembly, multichaperone pathway"
+http://purl.obolibrary.org/obo/GO_0007267,cell-cell signaling,cell-cell signalling
+http://purl.obolibrary.org/obo/GO_0042592,homeostatic process,"activation of homeostatic process,regulation of homeostatic process,homeostasis,positive regulation of homeostatic process,inhibition of homeostatic process,negative regulation of homeostatic process"
+http://purl.obolibrary.org/obo/GO_0030705,cytoskeleton-dependent intracellular transport,
+http://purl.obolibrary.org/obo/GO_0051186,cofactor metabolic process,cofactor metabolism
